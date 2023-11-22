@@ -1,7 +1,7 @@
-<span style="color:orange;"><h1 align="center">Hi 👋, I'm Kate from Minsk</h1>
+<span style="color:orange;"> <h1 align="center">Hi 👋, I'm Kate from Minsk</h1>
 <h3 align="center">I work in Data Science and Data Analysis field</h3>
 
--  I’m currently learning **СV-course from GeekBrains**
+-  I’m currently learning **Сomputer Vision-course from GeekBrains**
 
 -  All of my projects are available at **[https://github.com/Kate-B-DS](https://github.com/Kate-B-DS)**
 
