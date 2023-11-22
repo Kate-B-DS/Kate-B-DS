@@ -1,4 +1,21 @@
-<span style="color:orange;"> <h1 align="center">Hi 👋, I'm Kate from Minsk</h1>
+MDBoxLayout:
+    md_bg_color: app.theme_cls.primary_color
+    radius: [25, 0, 0, 0]
+
+
+
+Widget:
+    canvas:
+        Color:
+            rgba: 0, 1, 1, 1
+        Rectangle:
+            size: self.size
+            pos: self.pos
+
+
+
+<[email protected]>
+    md_bg_color: 0, 1, 1, 1 <h1 align="center">Hi 👋, I'm Kate from Minsk</h1>
 <h3 align="center">I work in Data Science and Data Analysis field</h3>
 
 -  I’m currently learning **Сomputer Vision-course from GeekBrains**
