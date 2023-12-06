@@ -5,7 +5,7 @@ Hi 👋, I'm Kate from Minsk</h1>
 
 -  All of my projects are available at **[https://github.com/Kate-B-DS](https://github.com/Kate-B-DS)**
 
--  How to reach me **ekaterina.bogdanovic@mail.ru** or **[https://t.me/](https://t.me/@MK_katie )**
+-  How to reach me **ekaterina.bogdanovic@mail.ru** or **[https://t.me/](https://t.me//MK_katie )**
 
 -  Fun fact **I love to memorize poems I like**
 
