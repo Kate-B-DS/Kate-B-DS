@@ -1,4 +1,4 @@
-Hi 👋, I'm Kate from Minsk(yellow_heart)</h1>
+Hi 👋, I'm Kate from Minsk, Belarus(💛)</h1>
 <h3 align="center">I work in Data Science and Data Analysis field</h3>
 
 -  I’m currently learning **Сomputer Vision-course from GeekBrains**
