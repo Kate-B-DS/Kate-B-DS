@@ -1,7 +1,7 @@
 Hi 👋, I'm Kate from Minsk, Belarus(💙)</h1>
-<h3 align="center">I work in Data Science and Data Analysis field</h3>
+<h3 align="center">I work in Data Science and Data Engineering fields</h3>
 
--  I’m currently learning **Сomputer Vision-course from GeekBrains**
+-  I’m particularly interested in Сomputer Vision with pr PyTorch**
 
 -  All of my projects are available at **[https://github.com/Kate-B-DS](https://github.com/Kate-B-DS)**
 
@@ -21,3 +21,4 @@ Hi 👋, I'm Kate from Minsk, Belarus(💙)</h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kate-b-ds&show_icons=true&locale=en&layout=compact" alt="kate-b-ds" /></p>
 </span>
 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
