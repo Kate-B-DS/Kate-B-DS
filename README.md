@@ -3,7 +3,7 @@ Hello👋, I'm Kate from Minsk, Belarus(💙)</h1>
 
 -  I’m particularly interested in Сomputer Vision with PyTorch
 
--  How to reach me *bogdanovichkate.job@gmail.com** or **[https://t.me/](https://t.me//MK_katie )**
+-  How to reach me **bogdanovichkate.job@gmail.com** or **[https://t.me/](https://t.me//MK_katie )**
 
 -  Fun fact **I love to memorize poems I like**
 
