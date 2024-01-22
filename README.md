@@ -1,4 +1,4 @@
-Hi 👋, I'm Kate from Minsk, Belarus(💙)</h1>
+Hello👋, I'm Kate from Minsk, Belarus(💙)</h1>
 <h3 align="center">I work in Data Science and Data Engineering fields</h3>
 
 -  I’m particularly interested in Сomputer Vision with PyTorch
